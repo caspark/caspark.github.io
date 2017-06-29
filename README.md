@@ -1,4 +1,6 @@
 # Caspar's blog
 
-That's all.
+## Developing
+
+    bundle exec jekyll serve
 
